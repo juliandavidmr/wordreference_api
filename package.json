@@ -1,0 +1,28 @@
+{
+  "name": "wordreference_api",
+  "version": "1.0.0",
+  "description": "Spanish, French, Italian, German and more. Conjugations, audio pronunciations and forums for your questions.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "html-to-json": "^0.6.0",
+    "request": "^2.72.0",
+    "scrapjs": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/wordreference_api.git"
+  },
+  "author": "https://twitter.com/anlijudavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/wordreference_api/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/wordreference_api#readme"
+}
